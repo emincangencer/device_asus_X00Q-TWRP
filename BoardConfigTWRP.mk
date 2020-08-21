@@ -13,6 +13,7 @@ TW_NO_EXFAT_FUSE := true
 
 # Encryption
 TW_INCLUDE_CRYPTO := true
+TARGET_CRYPTFS_HW_PATH := vendor/qcom/opensource/commonsys/cryptfs_hw
 
 # Notch margin
 TW_Y_OFFSET := 90
